@@ -1,2 +1,2 @@
 # matlab-image-processing
-final project in image processing course
+Final project in image processing course.
