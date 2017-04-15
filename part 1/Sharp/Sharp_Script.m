@@ -1,0 +1,1 @@
+ SharpAnImage('dog.jpg',4)
