@@ -8,11 +8,13 @@ Final project in image processing course.
 - Open **EngageYa-SDK.proj**
 - Build your project for:
 
-	-**iOS devices** Build with **Generic iOS Device.**.
+	-**iOS devices** Build it with **Generic iOS Device.**.
 	
-	-**Simulators** build it with one of the simulators.
+	-**Simulators** Build it with one of the simulators.
 	
-	
+- Open the Products folder.
+- Right Click on the **EngageYa_SDK.framework** -> show in finder to get the path of the framework.
+
 	
 **If do you want that the framework will be universal you need to follow about these steps:**
 	
@@ -42,10 +44,6 @@ Final project in image processing course.
 10. By following the above steps you have converted EngageYa_SDK-dev.framework from device only to a universal fat framework. Rename it to EngageYa_SDK.framework .
 
 **----------------------------------------------------------------------------------------------------------------------**
-
-- Open the Products folder.
-- Right Click on the **EngageYa_SDK.framework** -> show in finder to get the path of the framework.
-
 
 **Inside of the project that you want to implement EngageYa SDK:**
 
